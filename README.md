@@ -87,7 +87,7 @@ Berdasarkan eksekusi kode pada data tahun 2025:
 * **Stabilitas Harga:** Terpantau stabil/fluktuatif berdasarkan nilai CV.
 * **Signifikansi Cuaca:** * *T-Statistic:* 12.7310
     * *P-Value:* 5.5508
-    * **Kesimpulan:** (Misal: "Tidak ditemukan bukti statistik bahwa hujan harian mempengaruhi harga beras secara langsung di pasar Kota Kendari").
+    * **Kesimpulan:** "Tidak ditemukan bukti statistik bahwa hujan harian mempengaruhi harga beras secara langsung di pasar Kota Kendari".
 
 ---
 
