@@ -80,7 +80,7 @@ Pastikan Anda memiliki Python terinstal.
 
 ---
 
-## 📝 Hasil Analisis (Contoh Output)
+## 📝 Hasil Analisis
 
 Berdasarkan eksekusi kode pada data tahun 2025:
 
